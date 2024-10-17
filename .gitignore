@@ -1,0 +1,10 @@
+# # Bỏ qua file cụ thể
+# secret_file.txt
+
+# # Bỏ qua tất cả các file có đuôi .log
+# *.log
+
+# # Bỏ qua toàn bộ thư mục
+# node_modules/
+
+*.bin
